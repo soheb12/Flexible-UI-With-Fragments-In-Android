@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FlexibleUIWithFragments</string>
+    <string-array name="chapter">
+        <item>Iron Man</item>
+        <item>Spider Man</item>
+        <item>Captain America</item>
+        <item>Black Widow</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>When an industrialist is captured, he constructs a high-tech armoured suit to escape. Once he manages to escape, he decides to use his suit to fight against evil forces and save the world.</item>
+        <item>Miles Morales is a fictional superhero who appears in comic books published by Marvel Comics, as one of the characters who goes by the identity of Spider-Man.</item>
+        <item>Captain America is a fictional superhero appearing in American comic books published by Marvel Comics.</item>
+        <item>Natalia Alianovna Romanova, colloquial: Black Widow is a fictional superhero appearing in American comic books published by Marvel Comics.</item>
+    </string-array>
+</resources>
